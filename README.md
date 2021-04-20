@@ -1,0 +1,2 @@
+# sequalize
+ORM based exercise
